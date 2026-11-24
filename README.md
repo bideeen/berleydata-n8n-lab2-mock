@@ -9,9 +9,3 @@ Base URL: `https://raw.githubusercontent.com/bideeen/berleydata-n8n-lab2-mock/ma
 Example: `https://raw.githubusercontent.com/bideeen/berleydata-n8n-lab2-mock/main/country/NG.json`
 
 Both `/country/NG.json` and `/country/NG` work. Files are served as `text/plain`, so in the n8n HTTP Request node set Response Format to JSON.
-
-
-
-
-
-
